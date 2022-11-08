@@ -1,1 +1,1 @@
-# odin-recipe
+Building a basic website recipe for HTML Fundamentals in Odin Project.
